@@ -6,4 +6,5 @@ slide.init();
 
 slide.addArrow('.prev', '.next');
 
-slide.addControl();
+// adicionei a classe que será de controle
+slide.addControl('.custom-controls');
